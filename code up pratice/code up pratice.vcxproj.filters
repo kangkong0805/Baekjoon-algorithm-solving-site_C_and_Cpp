@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3710.c">
+    <ClCompile Include="1000.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="tic tae toe.c">
+    <ClCompile Include="1001.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="1008.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
